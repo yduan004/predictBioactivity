@@ -1,8 +1,9 @@
 # Bioactivity Prediction
+This web application can be used to predict drug bioactivities given their structures by calculating drug fingerprint descriptor.
 
 
 # Run on Heroku
-The web service is alive on Heroku at . 
+The web service is alive on Heroku at (https://predictbioactivity.herokuapp.com/)[https://predictbioactivity.herokuapp.com/]. 
 
 # Reproducing this web app
 To recreate this web application on your own computer, clone this repository to your local computer by running

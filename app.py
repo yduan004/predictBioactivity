@@ -43,7 +43,11 @@ st.image(image, use_column_width=True)
 st.markdown("""
 # Bioactivity Prediction App (TP53)
 
-This app allows you to predict the bioactivity towards inhibting the `TP53` gene/protein. `TP53` is a well-known target for cancers.
+This app allows you to predict the bioactivity towards inhibting the `CDK` proteins. 
+`CDKs (Cyclin-dependent kinases)` play important roles in the control of cell division and 
+modulate transcription in response to several extra- and intracellular cues. 
+Studies have shown that drug-targeted inhibition of this family of proteins is a hallmark 
+of several diseases, including cancer. It has generated very encouraging results in clinical trials.
 
 - App built in `Python` + `Streamlit`
 - Descriptor calculated using [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) [[Read the Paper]](https://doi.org/10.1002/jcc.21707).
